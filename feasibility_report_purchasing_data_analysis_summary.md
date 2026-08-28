@@ -6,7 +6,7 @@
 
 ## 対象ダッシュボード（スクリーンショット）
 
-![RMP-For Brands 購買データ分析メニュー|242](./assets/rmp_menu_02.png)
+<img src="./assets/rmp_menu_02.png" alt="RMP-For Brands 購買データ分析メニュー" width="194">
 
 **青枠 = 本レポートの調査対象範囲（購買データ分析 全体）**
 
